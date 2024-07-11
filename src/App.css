@@ -13,6 +13,18 @@
   }
 }
 
+.navbar{
+  background-color:lightblue;
+  padding: 36px;
+}
+
+.card{
+  background-color: skyblue;
+  font-size:24px;
+  font-style: italic;
+  padding: 36px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -22,6 +34,11 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.table{
+  background-color: antiquewhite;
+  padding:36px;
 }
 
 .App-link {
